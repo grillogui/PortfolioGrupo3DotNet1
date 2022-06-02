@@ -1,0 +1,45 @@
+.total{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 60px;
+}
+
+.corpo{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.foto{
+    width: 300px;
+    height: 300px;
+    align-items: flex-start;
+    display: flex;
+}
+
+.textos{
+    margin-left: 60px;
+}
+
+.nome{
+    color: 000;
+    display: flex;
+}
+.texto{
+    color: 000;
+}
+
+.icons{
+    margin: 20px;
+    margin-left: 50px;
+}
+
+.tamlogors {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}
+
+.end {
+    text-align: end;
+}
