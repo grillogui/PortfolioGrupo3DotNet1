@@ -1,7 +1,14 @@
+.body{
+    background-image: url(https://evydhence.com.br/wp-content/uploads/2020/06/fundo-site-branco-768x374.png);
+}
+
 .total{
     width: 70%;
     margin-left: 15%;
     margin-top: 60px;
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 10px;
 }
 
 .corpo{
@@ -15,10 +22,12 @@
     height: 300px;
     align-items: flex-start;
     display: flex;
+    border-radius: 10px;
 }
 
 .textos{
     margin-left: 60px;
+    font-family: Georgia;
 }
 
 .nome{
@@ -27,6 +36,7 @@
 }
 .texto{
     color: 000;
+
 }
 
 .icons{
