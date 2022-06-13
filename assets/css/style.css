@@ -39,7 +39,7 @@
 .txt{
     font-family: Georgia;
     color: #000;
-    font-size: 15px;
+    font-size: 18px;
     text-align: center;
     line-height: 25px;
 }
@@ -51,4 +51,8 @@
     justify-content: center;
     align-items: center;
     width: 100%;
+}
+
+.botao{
+    text-align: end;
 }
